@@ -1,9 +1,9 @@
 {
     "m_SelectedDeviceId": "a91128097d73",
     "m_SelectedProcess": {
-        "deviceId": "a91128097d73",
-        "name": "com.DefaultCompany.com.unity.template.mobile2D",
-        "processId": 12984,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,44 +11,32 @@
         {
             "deviceId": "a91128097d73",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 4372,
+            "processId": 29886,
             "exited": true
         },
         {
             "deviceId": "a91128097d73",
-            "name": "com.google.android.youtube",
-            "processId": 22295,
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 29924,
             "exited": true
         },
         {
             "deviceId": "a91128097d73",
             "name": "com.miui.home",
-            "processId": 2255,
+            "processId": 2286,
             "exited": false
         },
         {
             "deviceId": "a91128097d73",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 22709,
+            "processId": 12851,
             "exited": true
         },
         {
             "deviceId": "a91128097d73",
             "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 27922,
+            "processId": 4976,
             "exited": true
-        },
-        {
-            "deviceId": "a91128097d73",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 6243,
-            "exited": false
-        },
-        {
-            "deviceId": "a91128097d73",
-            "name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "processId": 12984,
-            "exited": false
         }
     ],
     "m_Tags": {
